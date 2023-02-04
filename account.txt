@@ -1,0 +1,33 @@
+API_KEY_PAIRS
+
+0xF84DB46522438aaa8183Cbf290DF76c2D023b98C: {walletAddress: "0xF84DB46522438aaa8183Cbf290DF76c2D023b98C",…}
+
+key: "9cda0ec9-2719-fbf9-1e83-ca5093a5aa1d"
+
+legacySigning: false 
+
+passphrase: "RXCuY67BB7bpQqBgpaSU"
+ 
+secret: "l0SV4-Vi98A9Q46Ap_YUV9SZeYfA_iKpQlYecuoA"
+
+walletAddress: "0xF84DB46522438aaa8183Cbf290DF76c2D023b98C"
+
+walletType: "METAMASK"
+
+
+
+STARK_KEY_PAIRS
+
+0xF84DB46522438aaa8183Cbf290DF76c2D023b98C: {walletAddress: "0xF84DB46522438aaa8183Cbf290DF76c2D023b98C",…}
+
+legacySigning: false
+
+privateKey: "039b9b4076337c17e97a5bbee258f9b5b027bd01536fff8d4967360ae396696d"
+
+publicKey: "01a1760ec6cd6dee5d54ecad854a5793cb31b7da06fbfec81f80d6a668cc7faf"
+
+publicKeyYCoordinate: "02b065d5ded74d014f88cfeb130c2e3c844869aef9d7ecd53af9e579e8bc758c"
+
+walletAddress: "0xF84DB46522438aaa8183Cbf290DF76c2D023b98C"
+
+walletType: "METAMASK"
