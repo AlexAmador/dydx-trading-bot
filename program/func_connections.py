@@ -14,6 +14,8 @@ from constants import (
 # Connect to DYDX 
 def connect_dydx():
 
+############ We need to create a new Mainnet public Client for real trading prices
+
 # Create Client Connection
     client = Client(
         host=HOST,
